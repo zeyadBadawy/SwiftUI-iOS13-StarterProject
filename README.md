@@ -12,7 +12,7 @@
 #### 8: Add LaunchScreen file and set it up.
 #### 9: Run your project on iOS13.
 
-
+###### Note: To run the preview you should select a simulator with iOS greater than 13 .
 ## Some usefull links
 
 https://stackoverflow.com/questions/69703928/how-to-generate-ios-13-swiftui-project-in-xcode
